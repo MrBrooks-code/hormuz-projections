@@ -3,9 +3,6 @@
 > **Interactive, single-file HTML dashboard** projecting downstream US consumer price impacts across 17 goods and services categories as a function of Strait of Hormuz closure duration.
 
 ![Last Updated](https://img.shields.io/badge/last%20updated-Mar%2013%2C%202026-red)
-![Crisis Day](https://img.shields.io/badge/crisis%20day-14-critical)
-![Brent Crude](https://img.shields.io/badge/Brent-~%24101%2Fbbl-orange)
-![Status](https://img.shields.io/badge/strait%20status-CLOSED-red)
 
 ---
 
